@@ -39,9 +39,9 @@
 
 
 ## SSH Installation
-![SSH installation](images/screenshot-17.png)
+[SSH installation](images/screenshot-17.png)
 
-![SSH installation](images/screenshot-18.png)
+[SSH installation](images/screenshot-18.png)
 
 
 
